@@ -4,11 +4,6 @@ It's a door game I was hacking on when I was in highschool in 1996 (Grade 11).
 
 Never finished it... but hey. Here it is, in all of its Turbo Pascal glory.
 
-## The `.ANS` files
-
-
-These require a program called [TheDraw](http://en.wikipedia.org/wiki/TheDraw) to edit / view. :)
-
 ## A bit of history
 
 The best I can remember it anyways. 
@@ -43,3 +38,20 @@ blink green and print like a slow retro-futuristic terminal.
 
 Regardless, here it is. Finding code from your childhood is as nostalgic as 
 finding old vacation photos. Enjoy. 
+
+## The `.ANS` files
+
+These require the awesome [TheDraw](http://en.wikipedia.org/wiki/TheDraw) program to open and 
+edit these files. Unfortunatly it's DOS based but works great in [DosBox](http://www.dosbox.com/). 
+
+Here's what they look like. _Warning awesome programmer ANSI art ahead!_
+
+![MENU0.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu0.png)
+![MENU1.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu1.png)
+![MENU2.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu2.png)
+![MENU3.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu3.png)
+![MENU4.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu4.png)
+![MENU5.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu5.png)
+![MENU6.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu6.png)
+![MENU7.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu7.png)
+![MENU8.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu8.png)
