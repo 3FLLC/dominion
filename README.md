@@ -72,3 +72,7 @@ Here's what they look like. _Warning awesome programmer ANSI art ahead!_
 
 ### MENU8.ans
 ![MENU8.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu8.png)
+
+## License
+
+See LICENSE.txt
