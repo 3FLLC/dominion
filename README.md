@@ -49,31 +49,31 @@ edit these files. Unfortunatly it's DOS based but works great in [DosBox](http:/
 Here's what they look like. _Warning awesome programmer ANSI art ahead!_
 
 ### MENU0.ans
-![MENU0.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu0.png)
+![MENU0.ANS](screenshots/menu0.png)
 
 ### MENU1.ans
-![MENU1.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu1.png)
+![MENU1.ANS](screenshots/menu1.png)
 
 ### MENU2.ans
-![MENU2.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu2.png)
+![MENU2.ANS](screenshots/menu2.png)
 
 ### MENU3.ans
-![MENU3.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu3.png)
+![MENU3.ANS](screenshots/menu3.png)
 
 ### MENU4.ans
-![MENU4.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu4.png)
+![MENU4.ANS](screenshots/menu4.png)
 
 ### MENU5.ans
-![MENU5.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu5.png)
+![MENU5.ANS](screenshots/menu5.png)
 
 ### MENU6.ans
-![MENU6.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu6.png)
+![MENU6.ANS](screenshots/menu6.png)
 
 ### MENU7.ans
-![MENU7.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu7.png)
+![MENU7.ANS](screenshots/menu7.png)
 
 ### MENU8.ans
-![MENU8.ANS](https://raw.github.com/mostlygeek/dominion/master/screenshots/menu8.png)
+![MENU8.ANS](screenshots/menu8.png)
 
 ## License
 
